@@ -1,0 +1,14 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node day1/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
