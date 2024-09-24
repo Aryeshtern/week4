@@ -1,14 +1,18 @@
 {
   "name": "week4",
   "version": "1.0.0",
+  "type":"commonjs",
   "scripts": {
-    "start": "node day1/index"
+    "start": "nodemon day3/basic_project/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.0",
+    "lodash": "^4.17.21",
+    "uuid": "^10.0.0"
   }
 }
