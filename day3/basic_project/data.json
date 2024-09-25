@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "John Doe",
+            "email": "johndoe@example.com",
+            "password": "password123"
+        },
+        {
+            "id": "2",
+            "name": "Jane Smith",
+            "email": "janesmith@example.com",
+            "password": "secret123"
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "name": "Product A",
+            "price": 100
+        },
+        {
+            "id": "2",
+            "name": "Product B",
+            "price": 200
+        }
+    ],
+    "orders": [
+        {
+            "id": "1",
+            "userId": "1",
+            "productId": "1",
+            "quantity": 2
+        },
+        {
+            "id": "2",
+            "userId": "2",
+            "productId": "2",
+            "quantity": 1
+        }
+    ]
+}
+
+

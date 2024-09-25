@@ -1,7 +1,7 @@
 {
   "name": "week4",
   "version": "1.0.0",
-  "type":"commonjs",
+  "type": "commonjs",
   "scripts": {
     "start": "nodemon day3/basic_project/index.js"
   },
@@ -12,6 +12,7 @@
   "dependencies": {
     "bcrypt": "^5.1.1",
     "express": "^4.21.0",
+    "jsonfile": "^6.1.0",
     "lodash": "^4.17.21",
     "uuid": "^10.0.0"
   }
